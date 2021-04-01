@@ -1,4 +1,4 @@
-#Tribute Page about Oliver Tree
+# Tribute Page about Oliver Tree
 <h2>
     Tribute Page for <i>freeCodeCamp</i> 1<sup>st</sup> exercise in <strong>Responsive Web Design</strong>
 </h2>
